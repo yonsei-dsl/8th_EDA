@@ -10,7 +10,7 @@ ___
 * 4조:
 * 5조:
 
-* ___
+ ___
 * EDA data set
 * 1. DART 재무정보
 * 2. Google playstore 데이터
