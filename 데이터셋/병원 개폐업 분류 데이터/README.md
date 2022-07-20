@@ -2,6 +2,11 @@
 
 https://dacon.io/competitions/official/9565/data
 
+
+# Member
+
+김예진(7/21)
+
 # 데이터 설명
 
 최근 2개년의 재무정보 및 병원의 기본 정보를 바탕으로 의료기관의 폐업 여부에 대한 데이터로 약 301개의 sample로 구성되어 있습니다.
